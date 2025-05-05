@@ -16,7 +16,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-azure-helpers v0.72.0
+	github.com/hashicorp/go-azure-helpers v0.73.0
 	github.com/hashicorp/go-azure-sdk/resource-manager v0.20250409.1192141
 	github.com/hashicorp/go-azure-sdk/sdk v0.20250409.1192141
 	github.com/hashicorp/go-cty v1.5.0
@@ -94,5 +94,3 @@ require (
 )
 
 go 1.24.1
-
-replace github.com/hashicorp/go-azure-helpers => ../../code/go/src/github.com/hashicorp/go-azure-helpers

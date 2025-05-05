@@ -90,6 +90,8 @@ github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORR
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
 github.com/hashicorp/errwrap v1.1.0 h1:OxrOeh75EUXMY8TBjag2fzXGZ40LB6IKw45YeGUDY2I=
 github.com/hashicorp/errwrap v1.1.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
+github.com/hashicorp/go-azure-helpers v0.73.0 h1:J++NBrLzwv6U/hSXeC29pWOr+5S+xnoQWVT2r1XAexw=
+github.com/hashicorp/go-azure-helpers v0.73.0/go.mod h1:tAUWC+kwZQsuNAHEIlnbojMMcC6SWQb6W1HfIeluv1E=
 github.com/hashicorp/go-azure-sdk/resource-manager v0.20250409.1192141 h1:Pcg1YL7B6iWG9UWKgvd3v2d7K9Zp43bNePmRP52HYB4=
 github.com/hashicorp/go-azure-sdk/resource-manager v0.20250409.1192141/go.mod h1:MZGY8UAS8jtXSqZSDF7O6QTsAe09N21AAdQbUREKeX4=
 github.com/hashicorp/go-azure-sdk/sdk v0.20250409.1192141 h1:t8kLm2lV5I7RQ0RpnQ8hxSfsLWUo/xpq1nBpSdxIguQ=

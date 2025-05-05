@@ -12,9 +12,7 @@ import (
 type Registration struct{}
 
 func (r Registration) FrameworkResources() []sdk.FrameworkWrappedResource {
-	return []sdk.FrameworkWrappedResource{
-		FwLogicAppStandardResource{},
-	}
+	return []sdk.FrameworkWrappedResource{}
 }
 
 func (r Registration) FrameworkDataSources() []sdk.FrameworkWrappedDataSource {
